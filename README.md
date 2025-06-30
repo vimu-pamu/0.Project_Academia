@@ -66,7 +66,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📬 about
 
-Vimukthi Madhusanka
+Vimukthi Madhusanka \n
 Pamudu Ranasinghe
 
 ---
