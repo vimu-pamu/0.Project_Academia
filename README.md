@@ -53,7 +53,7 @@ A quiz platform designed for **Advanced Level examination candidates in the Scie
 
 ## 📝 License
 
-This project is licensed under the **MIT License**.
+This project will be licensed under the **Education Ministry Sri Lanka**.
 
 ---
 
