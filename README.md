@@ -64,9 +64,10 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-## 📬 Contact
+## 📬 about
 
-For inquiries, reach out via email at: `your_email@example.com`
+Vimukthi Madhusanka
+Pamudu Ranasinghe
 
 ---
 
