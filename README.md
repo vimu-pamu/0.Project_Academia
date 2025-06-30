@@ -66,8 +66,9 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📬 about
 
-Vimukthi Madhusanka \n
+Vimukthi Madhusanka & 
 Pamudu Ranasinghe
+vimu161@gmail.com
 
 ---
 
